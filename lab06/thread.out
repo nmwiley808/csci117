@@ -1,1 +1,0 @@
-[local ["B"] [thread [B = true()],thread [B = false()],local ["EXU1"] [EXU1 = B,if EXU1 then [skip/BB] else [skip]]]]
